@@ -4,7 +4,7 @@ metadata:
   name: nginx2
   labels:
     app: nginx2
-  namespace: ns2
+  namespace: ns3
 spec:
   replicas: 1
   selector:
