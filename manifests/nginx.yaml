@@ -27,6 +27,7 @@ metadata:
   name: nginx2
   labels:
     app: nginx2
+  namespace: ns3
 spec:
   type: ClusterIP
   selector:
